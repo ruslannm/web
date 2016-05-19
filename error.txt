@@ -1,0 +1,2 @@
+nginx: [emerg] "http" directive is not allowed here in /etc/nginx/sites-enabled/test.conf:1
+nginx: configuration file /etc/nginx/nginx.conf test failed
